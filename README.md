@@ -37,3 +37,4 @@ python -m spacy download en
 Here are some things I looked at while making these tutorials. Some of it may be out of date.
 
 - https://github.com/Smerity/keras_snli
+- https://nlp.stanford.edu/pubs/snli_paper.pdf
