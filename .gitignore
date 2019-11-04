@@ -107,3 +107,4 @@ venv.bak/
 .data/
 .vector_cache/
 *.pt
+.vscode/
